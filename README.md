@@ -16,7 +16,7 @@ You can find a quick intro to Jupyter notebook [here](https://www.dataquest.io/b
 		* `conda env create -f data/environment.yml`
 	* alternatively:
 		* create and activate a new empty `conda` environment:
-			* `conda create --name python-course-pandas python=3.10
+			* `conda create --name python-course-pandas python=3.10`
 			* `conda activate python-course pandas`
 		* ... or activate an existing environment:
 			* `conda activate existing-environment`
