@@ -11,7 +11,7 @@ You can find a quick intro to Jupyter notebook [here](https://www.dataquest.io/b
 	* `cd` into directory that you want the repo to exist in
 	* `git clone git@github.com:LeonieMei/python-course-2023.git`
 * create a `conda` environment with all the necessary libraries
-	* `cd` into python-course-2023
+	* `cd` into `python-course-2023`
 	* create the environment from `data/environment.yml`
 		* `conda env create -f data/environment.yml`
 	* alternatively:
